@@ -23,7 +23,7 @@ const Header = () => {
             </h2>
           </DropdownMenuTrigger>
           <DropdownMenuContent>
-            <DropdownMenuLabel>Browse Catergory</DropdownMenuLabel>
+            <DropdownMenuLabel>Categories</DropdownMenuLabel>
             <DropdownMenuSeparator />
             <DropdownMenuItem>Profile</DropdownMenuItem>
             <DropdownMenuItem>Billing</DropdownMenuItem>
